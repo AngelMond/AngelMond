@@ -16,8 +16,8 @@ Here are some ideas to get you started:
 -->
 
 # About Me
-* I'm from Mexico City and currently I'm enrolled with a bootcamp given by Tec de Monterrey and I seeking to be a great fullstack web developer.
-* Before coding I likeed to be organized and apparently that something very helpfull when you are programing, in every project I've been working on I try to have a clean and readable code, so in future, me or someone else could save time when working with that code.
+* I'm from Mexico City and currently I'm enrolled with a bootcamp given by Tec de Monterrey and Trilogy Education Services. I'm seeking to be a great fullstack web developer and I'm putting all my effort on that.
+* Before coding I liked to be organized and apparently that something very helpfull when you are programing, in every project I've been working on I try to have a clean and readable code, so, in future, me or someone else could save time when working with that code.
 
 # Technical Skills
 <!------------------------------------- LOGOS ------------------------------->
