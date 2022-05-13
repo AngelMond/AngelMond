@@ -22,6 +22,7 @@ Here are some ideas to get you started:
 # Technical Skills
 <!------------------------------------- LOGOS ------------------------------->
 <!--HTML-->
+<div style="display=flex flex-row flex-wrap ">
 <img src="https://img.shields.io/badge/-HTML-e34f26?logo=html5&logoColor=fff">
 
 <!--CSS-->
@@ -38,6 +39,8 @@ Here are some ideas to get you started:
 
 <!--SASS-->
 <img src="https://img.shields.io/badge/-SASS-CC6699?logo=sass&logoColor=fff">
+</div>
+
 
 
 # My Stats
