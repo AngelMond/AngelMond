@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 * Before coding I liked to be organized and apparently that something very helpfull when you are programing, in every project I've been working on I try to have a clean and readable code, so, in future, me or someone else could save time when working with that code.
 
 # My Work
-* I've developed some projects by myself and one project with a 5 people team, we called the project CryptoCheck. It was a simple idea, just to give an investor some tool to see the price of any of the top 100 cryptos and to calculate how much an invest will cost in an specific crypto coin. We used a third API from coin to display the top 100 cryptos. We used JavaScript, Tailwind and SASS. 
+* I've developed some projects by myself and one project with a 6 people team, we called the project CryptoCheck. It was a simple idea, just to give an investor some tool to see the price of any of the top 100 cryptos and to calculate how much an invest will cost in an specific crypto coin. We used a third API from coin to display the top 100 cryptos. We used JavaScript, Tailwind and SASS. 
 
 # Technical Skills
 <!------------------------------------- LOGOS ------------------------------->
