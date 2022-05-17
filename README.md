@@ -52,3 +52,7 @@ Here are some ideas to get you started:
 
 # Most Used Lenguages
 ![Top Lenguages](https://github-readme-stats.vercel.app/api/top-langs/?username=ANGELMOND&show_icons=true&theme=radical)
+
+
+# Streak Stats
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=AngelMond&theme=merko&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
