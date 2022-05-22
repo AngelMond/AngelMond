@@ -22,7 +22,7 @@ Here are some ideas to get you started:
 # My Work
 * I've developed some projects by myself and one project with a 6 people team, we called the project CryptoCheck. It was a simple idea, just to give an investor some tool to see the price of any of the top 100 cryptos and to calculate how much an invest will cost for an specific crypto coin. We used an external API to display the top 100 cryptos, and we used JavaScript, Tailwind and SASS for the entire development.
 
-# Technical Skills
+# <ion-icon name="terminal"></ion-icon>Languages
 <!------------------------------------- LOGOS ------------------------------->
 <!--HTML-->
 <div style="display=flex flex-row flex-wrap ">
@@ -34,6 +34,15 @@ Here are some ideas to get you started:
 <!--JAVASCRIPT-->
 <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=fff">
 
+
+</div>
+
+#  🚀 Frameworks
+
+<div style="display=flex flex-row flex-wrap ">
+<!--NodeJS-->
+<img src="https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=fff">
+
 <!--BOOTSTRAP-->
 <img src="https://img.shields.io/badge/-Bootstrap-7952B3?logo=bootstrap&logoColor=fff">
 
@@ -43,8 +52,6 @@ Here are some ideas to get you started:
 <!--SASS-->
 <img src="https://img.shields.io/badge/-SASS-CC6699?logo=sass&logoColor=fff">
 </div>
-
-
 
 # My Stats
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=AngelMond&count_private=true&show_icons=true&theme=radical)
