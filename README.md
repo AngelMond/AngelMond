@@ -15,14 +15,14 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-# About Me
+# About Me 🧑‍💻
 * I'm currently enrolled in a bootcamp given by Tec de Monterrey and Trilogy Education Services. I'm seeking to be a great fullstack web developer and I'm putting all my effort on that.
 * Before coding I liked to be organized and apparently that something very helpfull when you are programing, in every project I've been working on I try to have a clean and readable code, so, in future, me or someone else could save time when working with that code.
 
-# My Work
+# My Work 👨‍💻
 * I've developed some projects by myself and one project with a 6 people team, we called the project CryptoCheck. It was a simple idea, just to give an investor some tool to see the price of any of the top 100 cryptos and to calculate how much an invest will cost for an specific crypto coin. We used an external API to display the top 100 cryptos, and we used JavaScript, Tailwind and SASS for the entire development.
 
-# <ion-icon name="terminal"></ion-icon>Languages
+# Languages
 <!------------------------------------- LOGOS ------------------------------->
 <!--HTML-->
 <div style="display=flex flex-row flex-wrap ">
@@ -33,7 +33,6 @@ Here are some ideas to get you started:
 
 <!--JAVASCRIPT-->
 <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=fff">
-
 
 </div>
 
@@ -49,11 +48,10 @@ Here are some ideas to get you started:
 <!--TAILWIND-->
 <img src="https://img.shields.io/badge/-Tailwind-06B6D4?logo=tailwind&logoColor=fff">
 
-<!--SASS-->
-<img src="https://img.shields.io/badge/-SASS-CC6699?logo=sass&logoColor=fff">
+
 </div>
 
-# My Stats
+# My Github Stats
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=AngelMond&count_private=true&show_icons=true&theme=radical)
 
 
