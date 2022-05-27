@@ -48,7 +48,14 @@ Here are some ideas to get you started:
 <!--TAILWIND-->
 <img src="https://img.shields.io/badge/-Tailwind-06B6D4?logo=tailwind&logoColor=fff">
 
+<img src="https://img.shields.io/badge/-MySQL-003B57?logo=mysql&logoColor=fff">
+</div>
 
+# 💾 DATABASES
+
+<div style="display=flex flex-row flex-wrap ">
+<!--MySQL-->
+<img src="https://img.shields.io/badge/-MySQL-003B57?logo=mysql&logoColor=fff">
 </div>
 
 # My Github Stats
