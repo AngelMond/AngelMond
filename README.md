@@ -27,7 +27,11 @@ I've developed several projects by myself and two projects with 6 and 9 people t
 * The first team project it's called CryptoCheck. It was a simple idea, just to give an investor some tool to see the price of any of the top 100 crypto coins and to calculate how much an invest will cost for an specific crypto coin. We used an external API to display the top 100 cryptos, and we used JavaScript, Tailwind and SASS for the entire development.
 
 * The second team project it's called NurseXpress. Our idea is based on providing nursing services to people who need it without leaving home, such as an injection, receiving serum etc. As well as generating freelance work for nurses. In this project I worked on both backEnd and FrontEnd. In the backEnd I worked mostly on controllers, models and the views using handlebars. In the frontEnd I worked mostly in responsive web desing. 
-Link to deployed Web: <a href="https://nurse-express-s.herokuapp.com/"> Here!</a>
+Deployed Web: <a href="https://nurse-express-s.herokuapp.com/"> Click here!</a>
+
+The last project that I develop by myself is called Developers-Fun-Blog. I used the MVC architecture pattern to
+develop this project. I used in the backEnd: JavaScript, NodeJS, MySQL, Sequelize, Express, Express-Session, Bcrypt to hash passwords and Handlebars to display all my views. I used in the frontEnd: Bootstrap. 
+Deployed Web: <a href="https://sheltered-everglades-31029.herokuapp.com/"> Click here!</a>
 
 
 # Languages
