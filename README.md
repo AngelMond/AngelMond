@@ -29,7 +29,7 @@ I've developed several projects by myself and two projects with 6 and 9 people t
 * The second team project it's called NurseXpress. Our idea is based on providing nursing services to people who need it without leaving home, such as an injection, receiving serum etc. As well as generating freelance work for nurses. In this project I worked on both backEnd and FrontEnd. In the backEnd I worked mostly on controllers, models and the views using handlebars. In the frontEnd I worked mostly in responsive web desing. 
 Deployed Web: <a href="https://nurse-express-s.herokuapp.com/"> Click here!</a>
 
-The last project that I develop by myself is called Developers-Fun-Blog. I used the MVC architecture pattern to
+The last project that I develop by myself it's called Developers-Fun-Blog. I used the MVC architecture pattern to
 develop this project. I used in the backEnd: JavaScript, NodeJS, MySQL, Sequelize, Express, Express-Session, Bcrypt to hash passwords and Handlebars to display all my views. I used in the frontEnd: Bootstrap. 
 Deployed Web: <a href="https://sheltered-everglades-31029.herokuapp.com/"> Click here!</a>
 
