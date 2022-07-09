@@ -20,7 +20,13 @@ Here are some ideas to get you started:
 * Before coding I liked to be organized and apparently that something very helpfull when you are programing, in every project I've been working on I try to have a clean and readable code, so, in future, me or someone else could save time when working with that code.
 
 # My Work 👨‍💻
-* I've developed some projects by myself and one project with a 6 people team, we called the project CryptoCheck. It was a simple idea, just to give an investor some tool to see the price of any of the top 100 cryptos and to calculate how much an invest will cost for an specific crypto coin. We used an external API to display the top 100 cryptos, and we used JavaScript, Tailwind and SASS for the entire development.
+* I've developed several projects by myself and two projects with 6 and 9 people teams.
+
+* The first team project it's called CryptoCheck. It was a simple idea, just to give an investor some tool to see the price of any of the top 100 crypto coins and to calculate how much an invest will cost for an specific crypto coin. We used an external API to display the top 100 cryptos, and we used JavaScript, Tailwind and SASS for the entire development.
+
+* The second team it's called project  NurseXpress. Our idea is based on providing nursing services to people who need it without leaving home, such as an injection, receiving serum etc. As well as generating freelance work for nurses. In this project I worked on both backEnd and FrontEnd. In the backEnd I worked mostly on controllers, models and the views using handlebars. In the frontEnd I worked mostly in responsive web desing. 
+Link to deployed Web: <a href="https://nurse-express-s.herokuapp.com/"> Here!</a>
+
 
 # Languages
 <!------------------------------------- LOGOS ------------------------------->
@@ -44,9 +50,6 @@ Here are some ideas to get you started:
 
 <!--BOOTSTRAP-->
 <img src="https://img.shields.io/badge/-Bootstrap-7952B3?logo=bootstrap&logoColor=fff">
-
-<!--TAILWIND-->
-<img src="https://img.shields.io/badge/-Tailwind-06B6D4?logo=tailwind&logoColor=fff">
 
 </div>
 
